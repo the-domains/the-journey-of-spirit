@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -10,14 +10,14 @@ description: >-
   TheFulfuldelanguage is reflected in the term ‘Burkinabe’, because ‘be’ is its
   plural for people. This use of all three main languages symbolises the unity
   of the country.
-datePublished: '2016-06-05T19:24:00.704Z'
-dateModified: '2016-06-05T19:23:47.032Z'
+datePublished: '2016-06-05T22:53:02.621Z'
+dateModified: '2016-06-05T22:52:58.869Z'
 title: Burkina Faso
 author: []
+sourcePath: _posts/2016-06-05-burkina-faso.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-burkina-faso.md
 url: burkina-faso/index.html
 _type: Article
 
