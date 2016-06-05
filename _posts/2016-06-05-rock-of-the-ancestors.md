@@ -5,13 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Burkina Faso means ‘Land of Honourable/Incorruptible Men’. ‘Burkina’ is a
-  Moore word meaning ‘honour’. ‘Faso’ is the Dioula word for ‘fatherland’. The
-  Fulfulde language is reflected in the term ‘Burkinabe’, because ‘be’ is its
-  plural for people. This use of all three main languages symbolises the unity
-  of the country.
-datePublished: '2016-06-05T18:13:34.964Z'
-dateModified: '2016-06-05T18:13:02.626Z'
+  Through ritual you are able to make your plea to the ancestors and then
+  listen(experience) for a response.
+datePublished: '2016-06-05T18:15:12.622Z'
+dateModified: '2016-06-05T18:15:07.169Z'
 author: []
 title: Rock of the Ancestors
 sourcePath: _posts/2016-06-05-rock-of-the-ancestors.md
@@ -23,6 +20,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# Burkina Faso
+
 Burkina Faso means 'Land of Honourable/Incorruptible Men'. 'Burkina' is a _Moore _word meaning 'honour'. 'Faso' is the _Dioula _word for 'fatherland'. The _Fulfulde _language is reflected in the term 'Burkinabe', because 'be' is its plural for people. This use of all three main languages symbolises the unity of the country.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0724669f-937e-4326-879a-9064d9599b25.jpg)
 
