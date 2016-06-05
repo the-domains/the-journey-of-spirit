@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Through ritual you are able to make your plea to the ancestors and then
   listen(experience) for a response.
-datePublished: '2016-06-05T18:44:20.884Z'
-dateModified: '2016-06-05T18:44:08.740Z'
+datePublished: '2016-06-05T19:02:13.358Z'
+dateModified: '2016-06-05T19:01:52.317Z'
 author: []
 title: Rock of the Ancestors
 sourcePath: _posts/2016-06-05-rock-of-the-ancestors.md
