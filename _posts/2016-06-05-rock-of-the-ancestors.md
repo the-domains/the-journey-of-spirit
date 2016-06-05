@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0724669f-937e-4326-879a-9064d9599b25.jpg
 inLanguage: null
 keywords: []
 description: >-
@@ -12,14 +10,15 @@ description: >-
   Fulfulde language is reflected in the term ‘Burkinabe’, because ‘be’ is its
   plural for people. This use of all three main languages symbolises the unity
   of the country.
-datePublished: '2016-06-05T18:04:28.057Z'
-dateModified: '2016-06-05T17:37:48.910Z'
+datePublished: '2016-06-05T18:13:34.964Z'
+dateModified: '2016-06-05T18:13:02.626Z'
 author: []
 title: Rock of the Ancestors
+sourcePath: _posts/2016-06-05-rock-of-the-ancestors.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-rock-of-the-ancestors.md
+url: rock-of-the-ancestors/index.html
 _context: 'http://schema.org'
 _type: Article
 
