@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-05T19:03:02.042Z'
-dateModified: '2016-06-05T19:02:51.436Z'
+datePublished: '2016-06-06T00:48:05.508Z'
+dateModified: '2016-06-06T00:47:22.676Z'
 author: []
 title: >-
   The Journey of Spirit will take you on memorable trips that will reconnect you
